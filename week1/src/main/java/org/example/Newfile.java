@@ -10,6 +10,8 @@ class A{
         System.out.println("m3-a");
     }
 }
+
+// extends
 class B extends A{
     int i = 20;
     @Override
